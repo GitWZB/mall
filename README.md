@@ -1,5 +1,3 @@
-慕课网上Jack老师有本全栈商城项目的详细视频讲解。
-
 ## Run Setup
 ###### 注意先启动MongoDB
 ###### cd server
@@ -21,3 +19,5 @@ npm run dev
 npm run build
 ###### build for production and view the bundle analyzer report（打包分析报告）
 npm run build --report
+
+慕课网上Jack老师有本全栈商城项目的详细视频讲解。
